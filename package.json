@@ -1,5 +1,5 @@
 {
-  "name": "jupyter-vje-extension",
+  "name": "@chwzr/jupyter-vje-extension",
   "version": "1.0.0",
   "description": "A JupyterLab Extension to edit VJE Metadata",
   "author": "Felix Koppe",
